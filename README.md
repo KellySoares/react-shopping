@@ -7,8 +7,9 @@
 ✨ Tecnologias utilizadas
 
 * React 17.0.2
-* MariaDB 10.1.44
-* Node.js
+* axios
+* redux
+* Node.js 17.4.0
 * Visual Studio code
 
 <h4 align="center"> 
@@ -41,6 +42,12 @@ A página será recarregada quando você fizer alterações.\
 Você também pode ver erros de lint no console.
 
 # ✨ Telas do site web
+![image](https://user-images.githubusercontent.com/56278384/153668068-2053f41a-6700-4ab3-a99d-96ccb6e71e8a.png)
+
+![image](https://user-images.githubusercontent.com/56278384/153668166-d3441f6d-7eee-4d9f-8fe3-65a18e654081.png)
+
+![image](https://user-images.githubusercontent.com/56278384/153668200-82c0e6cc-4ec1-4103-b08b-c458d9df5535.png)
+
 
 ## 
 
